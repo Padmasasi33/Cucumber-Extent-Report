@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="185281" started-at="2021-11-30T18:41:43 IST" finished-at="2021-11-30T18:44:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="185281" started-at="2021-11-30T18:41:43 IST" finished-at="2021-11-30T18:44:48 IST">
+      <class name="com.testng.Testng_Run">
+        <test-method status="PASS" signature="session()[pri:-5, instance:com.testng.Testng_Run@50313382]" name="session" duration-ms="27207" started-at="2021-11-30T18:41:43 IST" finished-at="2021-11-30T18:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- session -->
+        <test-method status="PASS" signature="women()[pri:-4, instance:com.testng.Testng_Run@50313382]" name="women" duration-ms="10345" started-at="2021-11-30T18:42:10 IST" finished-at="2021-11-30T18:42:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method status="PASS" signature="dresses()[pri:-3, instance:com.testng.Testng_Run@50313382]" name="dresses" duration-ms="14030" started-at="2021-11-30T18:42:21 IST" finished-at="2021-11-30T18:42:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresses -->
+        <test-method status="PASS" signature="casual()[pri:-2, instance:com.testng.Testng_Run@50313382]" name="casual" duration-ms="14384" started-at="2021-11-30T18:42:35 IST" finished-at="2021-11-30T18:42:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- casual -->
+        <test-method status="PASS" signature="printed()[pri:-1, instance:com.testng.Testng_Run@50313382]" name="printed" duration-ms="16607" started-at="2021-11-30T18:42:49 IST" finished-at="2021-11-30T18:43:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printed -->
+        <test-method status="PASS" signature="quantity()[pri:0, instance:com.testng.Testng_Run@50313382]" name="quantity" duration-ms="3230" started-at="2021-11-30T18:43:06 IST" finished-at="2021-11-30T18:43:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantity -->
+        <test-method status="PASS" signature="cart()[pri:1, instance:com.testng.Testng_Run@50313382]" name="cart" duration-ms="176" started-at="2021-11-30T18:43:09 IST" finished-at="2021-11-30T18:43:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method status="PASS" signature="proceed()[pri:2, instance:com.testng.Testng_Run@50313382]" name="proceed" duration-ms="31595" started-at="2021-11-30T18:43:09 IST" finished-at="2021-11-30T18:43:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceed -->
+        <test-method status="PASS" signature="email()[pri:3, instance:com.testng.Testng_Run@50313382]" name="email" duration-ms="238" started-at="2021-11-30T18:43:41 IST" finished-at="2021-11-30T18:43:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+        <test-method status="PASS" signature="createAcc()[pri:4, instance:com.testng.Testng_Run@50313382]" name="createAcc" duration-ms="112" started-at="2021-11-30T18:43:41 IST" finished-at="2021-11-30T18:43:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcc -->
+        <test-method status="PASS" signature="sign_In()[pri:5, instance:com.testng.Testng_Run@50313382]" name="sign_In" duration-ms="38707" started-at="2021-11-30T18:43:41 IST" finished-at="2021-11-30T18:44:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_In -->
+        <test-method status="PASS" signature="proceed_To()[pri:6, instance:com.testng.Testng_Run@50313382]" name="proceed_To" duration-ms="15861" started-at="2021-11-30T18:44:20 IST" finished-at="2021-11-30T18:44:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceed_To -->
+        <test-method status="PASS" signature="cgv()[pri:7, instance:com.testng.Testng_Run@50313382]" name="cgv" duration-ms="104" started-at="2021-11-30T18:44:36 IST" finished-at="2021-11-30T18:44:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cgv -->
+        <test-method status="PASS" signature="final_proceed()[pri:8, instance:com.testng.Testng_Run@50313382]" name="final_proceed" duration-ms="12546" started-at="2021-11-30T18:44:36 IST" finished-at="2021-11-30T18:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- final_proceed -->
+      </class> <!-- com.testng.Testng_Run -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

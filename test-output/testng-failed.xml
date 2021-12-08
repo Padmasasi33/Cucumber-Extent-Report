@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.testng.Testng_Run">
+        <methods>
+          <include name="proceed_To"/>
+          <include name="quantity"/>
+          <include name="createAcc"/>
+          <include name="cgv"/>
+          <include name="proceed"/>
+          <include name="sign_In"/>
+          <include name="cart"/>
+          <include name="email"/>
+          <include name="final_proceed"/>
+        </methods>
+      </class> <!-- com.testng.Testng_Run -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
